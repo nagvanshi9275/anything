@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  
+  width: 100vw;
+  
+  
+  height: 90vh;
+  margin-top: 20px;
+  
+  }
+  
+  
+  #input3{
+  
+    width: 80vw;
+  
+  
+  
+  }
+  
+  #input31{
+  
+  width: 100vw;
+  
+  }
+  
+  
+  
+  
+  body{
+  
+  background-color: black;
+  
+  }
+  
+  
+  
+  .kritrim{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  
+  
+  }
+  
+  
+  h1{
+  color: red;
+  
+  }
+  
+  
+  
+  .sunder1{
+    color: white;
+    border: 1px solid rgb(235, 27, 27);
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+   min-width: 20vw;
+    justify-content: center;
+    }
+  
+  
+  
+  .nacho{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  }
+  
+  
+  .dhoni{
+  
+    display: flex;
+    flex-direction: column;
+  
+  
+  }
+  
+  
+  .stereo{
+  
+  
+  border: 2px solid white;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+  }
+  
+  
+  .dinda{
+  
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  }
+  
+  
+  .dino{
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  
+  }
+  
+  
+  
+  
+  
+  #abc{
+  
+  width: auto;
+  height: auto;
+  }
+  
+  
+  
+  .tiger{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  }
+  
+  .comk{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  }
+  
+  
+  
+  .row21{
+  
+  
+  
+  
+  }
+  
+  
+  
+  #viral{
+  
+  width: 60vw;
+  max-width: 400px;
+  
+  }
+  
+  
+  .row22{
+    
+    
+    margin-top: 20px;
+  
+  }
+  
+  .raone{
+    width: 43vw;
+    max-width: 400px;
+    border: 2px solid pink;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2vw;
+  
+  }
+  
+  
+  
+  h1{
+  
+  color: red;
+  font-size: 30px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
